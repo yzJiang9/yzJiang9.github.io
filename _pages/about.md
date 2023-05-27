@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Greetings! I am a Ph.D student in the Program of Computational Biology and Bionformatics ([CB&B](https://cbb.yale.edu/)) at Yale University.
+Greetings! I am a Ph.D. student in the Program of Computational Biology and Bionformatics ([CB&B](https://cbb.yale.edu/)) at Yale University.
 
 I am supervised by [Mark B. Gertsein](http://www.gersteinlab.org/), the Albert L. Williams Professor of Biomedical Informatics. I have a broad interest in functional genomics, particularly understanding roles of non-coding regions in the human genome with multi-omics data.
 
