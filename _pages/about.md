@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: yunzhe.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>437 Bass Center</p>
