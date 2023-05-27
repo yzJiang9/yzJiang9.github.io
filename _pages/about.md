@@ -11,7 +11,7 @@ profile:
   address: >
     <p>437 Bass Center</p>
     <p>266 Whitney Ave</p>
-    <p>New Haven, CT, 06511</p>
+    <p>New Haven, CT 06511</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
