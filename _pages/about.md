@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>437 Bass Center</p>
-    <p>266 Whitney Ave</p>
+    <p>266 Whitney Avenue</p>
     <p>New Haven, CT 06511</p>
 
 news: false  # includes a list of news items
