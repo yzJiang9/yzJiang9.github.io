@@ -156,7 +156,20 @@
         <div class="author">
         
 
-        Adam Frankish, Sílvia Carbonell-Sala, Mark Diekhans, Irwin Jungreis, Jane E Loveland, Jonathan M Mudge, Cristina Sisu, James C Wright, Carme Arnan, If Barnes, Abhimanyu Banerjee, Ruth Bennett, Andrew Berry, Alexandra Bignell, Carles Boix, Ferriol Calvet, Daniel Cerdán-Vélez, Fiona Cunningham, Claire Davidson, Sarah Donaldson, Cagatay Dursun, Reham Fatima, Stefano Giorgetti, Carlos Garcıa Giron, Jose Manuel Gonzalez, Matthew Hardy, Peter W Harrison, Thibaut Hourlier, Zoe Hollis, Toby Hunt, Benjamin James, <em>Yunzhe Jiang</em>, Rory Johnson, Mike Kay, Julien Lagarde, Fergal J Martin, Laura Martínez Gómez, Surag Nair, Pengyu Ni, Fernando Pozo, Vivek Ramalingam, Magali Ruffier, Bianca M Schmitt, Jacob M Schreiber, Emily Steed, Marie-Marthe Suner, Dulika Sumathipala, Irina Sycheva, Barbara Uszczynska-Ratajczak, Elizabeth Wass, Yucheng T Yang, Andrew Yates, Zahoor Zafrulla, Jyoti S Choudhary, Mark Gerstein, Roderic Guigo, Tim J P Hubbard, Manolis Kellis, Anshul Kundaje, Benedict Paten, Michael L Tress, and Paul Flicek</div>
+        Adam Frankish, Sílvia Carbonell-Sala, Mark Diekhans, and
+          <span class="more-authors" title="click to view 59 more authors" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '59 more authors' ? 'Irwin Jungreis, Jane E Loveland, Jonathan M Mudge, Cristina Sisu, James C Wright, Carme Arnan, If Barnes, Abhimanyu Banerjee, Ruth Bennett, Andrew Berry, Alexandra Bignell, Carles Boix, Ferriol Calvet, Daniel Cerdán-Vélez, Fiona Cunningham, Claire Davidson, Sarah Donaldson, Cagatay Dursun, Reham Fatima, Stefano Giorgetti, Carlos Garcıa Giron, Jose Manuel Gonzalez, Matthew Hardy, Peter W Harrison, Thibaut Hourlier, Zoe Hollis, Toby Hunt, Benjamin James, Yunzhe Jiang, Rory Johnson, Mike Kay, Julien Lagarde, Fergal J Martin, Laura Martínez Gómez, Surag Nair, Pengyu Ni, Fernando Pozo, Vivek Ramalingam, Magali Ruffier, Bianca M Schmitt, Jacob M Schreiber, Emily Steed, Marie-Marthe Suner, Dulika Sumathipala, Irina Sycheva, Barbara Uszczynska-Ratajczak, Elizabeth Wass, Yucheng T Yang, Andrew Yates, Zahoor Zafrulla, Jyoti S Choudhary, Mark Gerstein, Roderic Guigo, Tim J P Hubbard, Manolis Kellis, Anshul Kundaje, Benedict Paten, Michael L Tress, Paul Flicek' : '59 more authors';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">59 more authors</span>
+</div>
 
         <!-- Journal/Book title and date -->
         
@@ -176,8 +189,6 @@
           </div>
           
           <div class="badges">
-            <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right" data-doi="10.1093/nar/gkac1071"></span>
-              <span class="__dimensions_badge_embed__" data-doi="10.1093/nar/gkac1071" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 3px;"></span>
           </div>
 
           <!-- Hidden abstract block -->
@@ -232,8 +243,6 @@
   <script defer src="/assets/js/copy_code.js" type="text/javascript"></script>
 
     
-  <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-  <script async src="https://badge.dimensions.ai/badge.js"></script>
 
     <!-- MathJax -->
   <script type="text/javascript">
