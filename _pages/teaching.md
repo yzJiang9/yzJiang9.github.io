@@ -21,7 +21,7 @@ nav_order: 5
         </span>
       </div>
     </div>
-    <h6 class="mt-2 mt-sm-0"> Metabolic processes are mainly taught, including sugar metabolism, photosynthesis, protein metabolism, lipid metabolism, amino acid metabolism, etc., as well as the pathways involved in these metabolic processes, biochemical reactions, the characteristics of enzymes that catalyze these biochemical reactions, and the mechanism of catalytic reactions, the regulation of metabolic pathways and their regulatory mechanisms, the relationship between metabolic abnormalities and the occurrence of certain diseases, and how certain drugs play a role in regulating metabolic processes and play a therapeutic role. </h6>
+    <p class="mt-2 mt-sm-0"> Metabolic processes are mainly taught, including sugar metabolism, photosynthesis, protein metabolism, lipid metabolism, amino acid metabolism, etc., as well as the pathways involved in these metabolic processes, biochemical reactions, the characteristics of enzymes that catalyze these biochemical reactions, and the mechanism of catalytic reactions, the regulation of metabolic pathways and their regulatory mechanisms, the relationship between metabolic abnormalities and the occurrence of certain diseases, and how certain drugs play a role in regulating metabolic processes and play a therapeutic role. </p>
     <h6 class="mt-2 mt-sm-0"><i>Spring 2019: Peer Mentor</i></h6>
   </div>
 </div>
