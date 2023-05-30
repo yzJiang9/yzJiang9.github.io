@@ -69,14 +69,14 @@
   contents:
     - year: 2018
       items: 
-        - National Scholarship
-        - China Undergraduate Mathematical Contest in Modeling (Shanghai) First Prize, CSIAM
+        - National Scholarship, <i>Ministry of Education, China</i>
+        - China Undergraduate Mathematical Contest in Modeling (Shanghai) First Prize, <i>CSIAM</i>
     - year: 2019
       items: 
-        - National Scholarship
+        - National Scholarship, <i>Ministry of Education, China</i>
     - year: 2020
       items:
-        - National Scholarship  
+        - National Scholarship, <i>Ministry of Education, China</i> 
 
 - title: Academic Interests
   type: nested_list
