@@ -23,6 +23,9 @@
       description:
         - GPA&#58 91.43/100, rank&#58 1/25
         - Relevant courswork&#58 Introduction to LINUX and Shell Scripting, Systems Biology, Biostatistical Models, Computational Biochemistry
+    - title: High school diploma
+      institution: No.2 High School of East China Normal Univeristy, Shanghai, China
+      year: 2013 - 2016
             
 #- title: Experience
 #  type: time_table
