@@ -31,7 +31,7 @@ nav_order: 5
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="card-title"><a>Organic Chemistry</a></h5>
+        <h5 class="card-title"><a>Organic Chemistry I</a></h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
         <span class="badge">
