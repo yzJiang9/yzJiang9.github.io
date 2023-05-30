@@ -1,8 +1,8 @@
-#- title: General Information
-#  type: map
-#  contents:
-#    - name: Full Name
-#      value: Yunzhe Jiang
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Yunzhe Jiang
 
 - title: Education
   type: time_table
@@ -17,9 +17,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Bachelor of Science in Bioinformatics and Biostatistics
+      institution: Shanghai Jiao Tong University
+      year: 2016 - 2021
       description:
         - Description 1.
         - Description 2.
