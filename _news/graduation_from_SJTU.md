@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2021-06-26 09:00:00+0800
-title: Graduated from Shanghai Jiao Tong University
+title: Graduation from SJTU
 inline: false
 related_posts: false
 ---
