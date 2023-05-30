@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://yzjiang9.github.io/news/test/</loc>
+<lastmod>2015-11-07T20:11:00+00:00</lastmod>
+</url>
+<url>
 <loc>https://yzjiang9.github.io/news/graduation/</loc>
 <lastmod>2021-06-26T01:00:00+00:00</lastmod>
 </url>
