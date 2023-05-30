@@ -67,13 +67,16 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2018
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - National Scholarship
+        - China Undergraduate Mathematical Contest in Modeling (Shanghai) First Prize, CSIAM
+    - year: 2019
       items: 
-        - Max Planck Medal
+        - National Scholarship
+    - year: 2020
+      items:
+        - National Scholarship  
 
 - title: Academic Interests
   type: nested_list
