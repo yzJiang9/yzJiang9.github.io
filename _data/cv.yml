@@ -1,8 +1,8 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Yunzhe Jiang
+#- title: General Information
+#  type: map
+#  contents:
+#    - name: Full Name
+#      value: Yunzhe Jiang
 
 - title: Education
   type: time_table
@@ -69,17 +69,16 @@
   contents:
     - year: 2018
       items: 
-        - National Scholarship, <i>Ministry of Education, China</i>
-        - China Undergraduate Mathematical Contest in Modeling (Shanghai) First Prize, <i>CSIAM</i>
+        - National Scholarship, <u>Ministry of Education, China</u>
+        - China Undergraduate Mathematical Contest in Modeling (Shanghai) First Prize, <u>CSIAM</u>
     - year: 2019
       items: 
-        - National Scholarship, <i>Ministry of Education, China</i>
-        - 
+        - National Scholarship, <u>Ministry of Education, China</u>
     - year: 2020
       items:
-        - National Scholarship, <i>Ministry of Education, China</i> 
-        - The International Genetically Engineered Machine Competition Gold Medal, <i>iGEM Foundation</i>
-        - China Undergraduate Life Sciences Innovation and Entrepreneurship Contest First Prize, <i>NOCFEE</i>
+        - National Scholarship, <u>Ministry of Education, China</u> 
+        - The International Genetically Engineered Machine Competition Gold Medal, <u>iGEM Foundation</u>
+        - China Undergraduate Life Sciences Innovation and Entrepreneurship Contest First Prize, <u>NOCFEE</u>
 
 
 - title: Academic Interests
