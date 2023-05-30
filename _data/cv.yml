@@ -74,9 +74,13 @@
     - year: 2019
       items: 
         - National Scholarship, <i>Ministry of Education, China</i>
+        - 
     - year: 2020
       items:
         - National Scholarship, <i>Ministry of Education, China</i> 
+        - The International Genetically Engineered Machine Competition Gold Medal, <i>iGEM Foundation</i>
+        - China Undergraduate Life Sciences Innovation and Entrepreneurship Contest First Prize, <i>NOCFEE</i>
+
 
 - title: Academic Interests
   type: nested_list
