@@ -67,18 +67,13 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2018
+    - year: 1921
       items: 
-        - National Scholarship, Ministry of Education
-        - China Undergraduate Mathematical Contest in Modeling (Shanghai) First Prize, CSIAM
-   - year: 2019
+        - Nobel Prize in Physics 
+        - Matteucci Medal
+    - year: 2029
       items: 
-        - National Scholarship, Ministry of Education
-   - year: 2020
-      items: 
-        - National Scholarship, Ministry of Education
-        - The International Genetically Engineered Machine Competition Gold Medal, iGEM Foundation
-        - China Undergraduate Life Sciences Innovation and Entrepreneurship Contest First Prize, NOCFEE
+        - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
