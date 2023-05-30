@@ -19,5 +19,6 @@ Lastly, but certainly not least, I extend my heartfelt thanks to some of my clos
 
 <blockquote style="text-align: justify; font-size: 12px;">
 - How can we say goodbye?
+ 
 - As we said hello.
 </blockquote>
