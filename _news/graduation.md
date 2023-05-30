@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-Au revoir!
+It is the best of times, and it is the worst of times. Au revoir!
 
 ***
 
@@ -19,6 +19,5 @@ Lastly, but certainly not least, I extend my heartfelt thanks to some of my clos
 
 <blockquote>
 &-; How can we say goodbye?
- 
 &-; As we said hello.
 </blockquote>
