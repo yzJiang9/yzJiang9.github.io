@@ -5,13 +5,13 @@
       value: Yunzhe Jiang
 
 - title: Education
-  type: time_table
+  type: nested_list
   contents:
     - title: Ph.D. in Computational Biology and Bioinformatics
       institution: Department of Molecular Biophysics and Biochemistry, Yale University, New Haven, CT, U.S.A.
-      year: 2021 - 2027 (expected)
+      year: 2021 - Present
       description:
-        - Relevant coursework: Theory of Statistics, Optimization and Computation, Data Analysis, BiomedicalDataSci:Mining&Mdlng
+         - Relevant courswork: Theory of Statistics, Optimization and Computation, Data Analysis, BiomedicalDataSci:Mining&Mdlng
 #        - Description 2.
 #        - title: Description 3.
 #          contents:
