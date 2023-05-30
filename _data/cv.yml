@@ -5,13 +5,13 @@
       value: Yunzhe Jiang
 
 - title: Education
-  type: nested_list
+  type: time_table
   contents:
     - title: Ph.D. in Computational Biology and Bioinformatics
       institution: Department of Molecular Biophysics and Biochemistry, Yale University, New Haven, CT, U.S.A.
       year: 2021 - Present
       description:
-         - Relevant courswork: Theory of Statistics, Optimization and Computation, Data Analysis, BiomedicalDataSci:Mining&Mdlng
+         - Relevant courswork&#58 Theory of Statistics, Optimization and Computation, Data Analysis, BiomedicalDataSci:Mining&Mdlng
 #        - Description 2.
 #        - title: Description 3.
 #          contents:
@@ -21,8 +21,8 @@
       institution: School of Life Sciences and Technology, Shanghai Jiao Tong University, Shanghai, China
       year: 2016 - 2021
       description:
-        - GPA: 91.43/100 (1/25)
-        - Relevant courswork: Introduction to LINUX and Shell Scripting, Systems Biology, Biostatistical Models, 	Computational Biochemistry
+        - GPA&#58 91.43/100, rank&#58 1/25
+        - Relevant courswork&#58 Introduction to LINUX and Shell Scripting, Systems Biology, Biostatistical Models, 	Computational Biochemistry
             
 #- title: Experience
 #  type: time_table
