@@ -1,12 +1,12 @@
 ---
 layout: post
 date: 2021-06-26 09:00:00+0800
-title: Graduation from SJTU
+title: Graduation from SJTU. Au revoir!
 inline: false
 related_posts: false
 ---
 
-It is the best of times, and it is the worst of times. Au revoir! 
+It is the best of times, and it is the worst of times.
 
 Here are some excerpts from the acknowledgements in my thesis.
 
