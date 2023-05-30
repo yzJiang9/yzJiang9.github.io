@@ -5,7 +5,7 @@ inline: false
 related_posts: false
 ---
 
-Graduated from Shanghai Jiao Tong University. Au revoir!
+Au revoir!
 
 ***
 
