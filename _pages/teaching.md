@@ -7,6 +7,27 @@ nav: true
 nav_order: 4
 ---
 
+<h3 class="mt-4">Yale University</h3>
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="card-title"><a>Probability and Bayesian Statistics</a></h5>
+      </div>
+      <div class="col-sm-2 text-left text-sm-right">
+        <span class="badge">
+            S&DS 238/538
+        </span>
+      </div>
+    </div>
+    <p> Fundamental principles and techniques of probabilistic thinking, statistical modeling, and data analysis. Essentials of probability, including conditional probability, random variables, distributions, law of large numbers, central limit theorem, and Markov chains. Statistical inference with emphasis on the Bayesian approach: parameter estimation, likelihood, prior and posterior distributions, Bayesian inference using Markov chain Monte Carlo. Introduction to regression and linear models. Computers are used for calculations, simulations, and analysis of data. </p>
+    <h6 class="mt-2 mt-sm-0"><i>Fall 2023: Teaching Fellow</i></h6>
+  </div>
+</div>
+
+
+
 <h3 class="mt-4">Shanghai Jiao Tong University</h3>
 
 <div class="card mt-3">
