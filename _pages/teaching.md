@@ -38,7 +38,7 @@ nav_order: 4
       </div>
       <div class="col-sm-2 text-left text-sm-right">
         <span class="badge">
-            BIO2203
+            BIO 2203
         </span>
       </div>
     </div>
@@ -56,7 +56,7 @@ nav_order: 4
       </div>
       <div class="col-sm-2 text-left text-sm-right">
         <span class="badge">
-            CHEM2201
+            CHEM 2201
         </span>
       </div>
     </div>
