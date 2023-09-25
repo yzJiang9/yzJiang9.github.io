@@ -9,9 +9,9 @@ profile:
   image: yunzhe.jpg 
   image_circular: false # crops the image to make it circular
   address: >
-    <p>437 Bass Center</p>
-    <p>266 Whitney Avenue</p>
-    <p>New Haven, CT 06511</p>
+    <p>A920.59</p>
+    <p>100 College Street</p>
+    <p>New Haven, CT 06510</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
