@@ -97,12 +97,12 @@
  #       - Description 2.
 
 
- 
+  - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
 
  - title: Professional Services
    type: list
    contents:
-   - title: Reviewer
+   - Reviewer
 #    - title: ICLR 2024
 #      items: 
 #        - Description 1.
