@@ -96,8 +96,8 @@
  #       - Description 1.
  #       - Description 2.
 
- #- title: Professional Services
- # type: list
+ - title: Professional Services
+   type: list
  # contents:
 #    - title: ICLR 2024
 #      items: 
