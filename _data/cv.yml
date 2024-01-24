@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Yunzhe Jiang
+      value: Yunzhe Jiang (蒋韵哲)
 
 - title: Education
   type: time_table
@@ -81,6 +81,18 @@
   type: nested_list
   contents:
     - title: Functional genomics
+#      items: 
+#        - Description 1.
+#        - Description 2.
+    - title: Pan-genomics
+ #     items:
+ #       - Description 1.
+ #       - Description 2.
+
+ - title: Professional Services
+  type: list
+  contents:
+    - title: ICLR 2024
 #      items: 
 #        - Description 1.
 #        - Description 2.
