@@ -22,7 +22,10 @@
       year: 2016 - 2021
       description:
         - GPA&#58 91.43/100, rank&#58 1/25
-        - Relevant courswork&#58 Data Structures and Algorithms, Introduction to LINUX and Shell Scripting, Algorithms in Bioinformatics, Functional Genomics, Systems Biology, Biostatistical Models, Computational Biochemistry
+        - title: Relevant courswork&
+          contents:
+            - Programming languages for Bioinformatics, Introduction to LINUX and Shell Scripting, Data Structures and Algorithms, Algorithms in Bioinformatics
+            - Functional Genomics, Systems Biology, Biostatistical Models, Computational Biochemistry
     - title: High school diploma
       institution: No.2 High School of East China Normal University, Shanghai, China
       year: 2013 - 2016
