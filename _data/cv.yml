@@ -101,8 +101,8 @@
 
  - title: Professional Services
    type: list
-   items:
-   - name: Reviewer
+   contents:
+   - title: Reviewer
 #    - title: ICLR 2024
 #      items: 
 #        - Description 1.
