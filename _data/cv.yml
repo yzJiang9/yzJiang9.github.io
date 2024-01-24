@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Yunzhe Jiang
+      value: Yunzhe Jiang (蒋韵哲)
 
 - title: Education
   type: time_table
@@ -22,9 +22,9 @@
       year: 2016 - 2021
       description:
         - GPA&#58 91.43/100, rank&#58 1/25
-        - Relevant courswork&#58 Introduction to LINUX and Shell Scripting, Systems Biology, Biostatistical Models, Computational Biochemistry
+        - Relevant courswork&#58 Data Structures and Algorithms, Introduction to LINUX and Shell Scripting, Algorithms in Bioinformatics, Functional Genomics, Systems Biology, Biostatistical Models, Computational Biochemistry
     - title: High school diploma
-      institution: No.2 High School of East China Normal Univeristy, Shanghai, China
+      institution: No.2 High School of East China Normal University, Shanghai, China
       year: 2013 - 2016
             
 #- title: Experience
