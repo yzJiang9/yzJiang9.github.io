@@ -11,7 +11,10 @@
       institution: Department of Molecular Biophysics and Biochemistry, Yale University, New Haven, CT, U.S.A.
       year: 2021 - Pres.
       description:
-         - Relevant courswork&#58 Theory of Statistics, Optimization and Computation, Data Analysis, Biomedical Data Science&#58 Mining and Modeling, Molecular and Biochemical Principles of Gene Function
+        - title: Relevant coursework
+          contents:
+           - Theory of Statistics, Optimization and Computation, Data Analysis, Biomedical Data Science&#58 Mining and Modeling
+           - Single-cell Biology, Molecular and Biochemical Principles of Gene Function
          - Awarded Master of Science in December, 2023
 #        - title: Description 3.
 #          contents:
@@ -22,9 +25,9 @@
       year: 2016 - 2021
       description:
         - GPA&#58 91.43/100, rank&#58 1/25
-        - title: Relevant courswork&
+        - title: Relevant courswork
           contents:
-            - Programming languages for Bioinformatics, Introduction to LINUX and Shell Scripting, Data Structures and Algorithms, Algorithms in Bioinformatics
+            - Programming Languages for bioinformatics, Introduction to LINUX and Shell Scripting, Data Structures and Algorithms, Algorithms in Bioinformatics
             - Functional Genomics, Systems Biology, Biostatistical Models, Computational Biochemistry
     - title: High school diploma
       institution: No.2 High School of East China Normal University, Shanghai, China
