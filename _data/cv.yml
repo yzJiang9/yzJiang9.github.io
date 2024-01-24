@@ -92,11 +92,11 @@
  - title: Professional Services
   type: list
   contents:
-    - title: ICLR 2024
+#    - title: ICLR 2024
 #      items: 
 #        - Description 1.
 #        - Description 2.
-    - title: Pan-genomics
+ #   - title: Pan-genomics
  #     items:
  #       - Description 1.
  #       - Description 2.
