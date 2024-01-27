@@ -8,7 +8,7 @@
   type: time_table
   contents:
     - title: Ph.D. in Computational Biology and Bioinformatics
-      institution: Department of Molecular Biophysics and Biochemistry, Yale University, New Haven, CT, U.S.A.
+      institution: Yale University, New Haven, CT, U.S.A.
       year: 2021 - Pres.
       description:
         - title: Relevant coursework
@@ -28,7 +28,7 @@
         - GPA&#58 91.43/100, rank&#58 1/25
         - title: Relevant coursework
           contents:
-            - Programming Languages for bioinformatics, Introduction to LINUX and Shell Scripting, Data Structures and Algorithms, Algorithms in Bioinformatics
+            - Programming Languages for Bioinformatics, Introduction to LINUX and Shell Scripting, Data Structures and Algorithms, Algorithms in Bioinformatics
             - Functional Genomics, Systems Biology, Biostatistical Models, Computational Biochemistry
     - title: High school diploma
       institution: No.2 High School of East China Normal University, Shanghai, China
@@ -100,7 +100,7 @@
 - title: Professional Services
   type: list
   contents:
-    - Reviewer
+    - ICLR 2024 Workshop Reviewer
 #    - title: ICLR 2024
 #      items: 
 #        - Description 1.
