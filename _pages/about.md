@@ -9,7 +9,7 @@ profile:
   image: yunzhe.jpg 
   image_circular: false # crops the image to make it circular
   address: >
-    <p>A920.59, 100 College Street</p>
+    <p>100 College St, A920.59</p>
     <p>New Haven, CT 06510</p>
 
 news: true  # includes a list of news items
