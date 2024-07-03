@@ -13,6 +13,23 @@ nav_order: 4
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
+        <h5 class="card-title"><a>Data Exploration and Analysis</a></h5>
+      </div>
+      <div class="col-sm-2 text-left text-sm-right">
+        <span class="badge">
+            S&DS 230/530
+        </span>
+      </div>
+    </div>
+    <p> Survey of statistical methods: plots, transformations, regression, analysis of variance, clustering, principal components, contingency tables, and time series analysis. The R computing language and web data sources are used. </p>
+    <h6 class="mt-2 mt-sm-0"><i>Fall 2024: Teaching Fellow</i></h6>
+  </div>
+</div>
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
         <h5 class="card-title"><a>Probability and Bayesian Statistics</a></h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
