@@ -11,6 +11,9 @@
       institution: Yale University, New Haven, CT, U.S.A.
       year: 2021 - Pres.
       description:
+        - title: QE committee
+          contents:
+           - Roderic Guigo (CRG), Ira Hall (Yale), Matt Simon (Yale)
         - title: Relevant coursework
           contents:
            - Theory of Statistics, Optimization and Computation, Data Analysis, Biomedical Data Science&#58 Mining and Modeling
@@ -25,6 +28,7 @@
       institution: School of Life Sciences and Technology, Shanghai Jiao Tong University, Shanghai, China
       year: 2016 - 2021
       description:
+        - Graduation with distinction
         - GPA&#58 91.43/100, rank&#58 1/25
         - title: Relevant coursework
           contents:
@@ -72,14 +76,14 @@
   contents:
     - year: 2018
       items: 
- #       - National Scholarship, <u>Ministry of Education, China</u>
+        - National Scholarship, <u>Ministry of Education, China</u>
         - China Undergraduate Mathematical Contest in Modeling (Shanghai) First Prize, <u>CSIAM</u>
-#    - year: 2019
-#      items: 
-#        - National Scholarship, <u>Ministry of Education, China</u>
+    - year: 2019
+      items: 
+        - National Scholarship, <u>Ministry of Education, China</u>
     - year: 2020
       items:
-#        - National Scholarship, <u>Ministry of Education, China</u> 
+        - National Scholarship, <u>Ministry of Education, China</u> 
         - The International Genetically Engineered Machine Competition Gold Medal, <u>iGEM Foundation</u>
         - China Undergraduate Life Sciences Innovation and Entrepreneurship Contest First Prize, <u>NOCFEE</u>
 
@@ -101,6 +105,7 @@
   type: list
   contents:
     - ICLR 2024 Workshop Reviewer
+    - PLOS Computational Biology Reviewer
 #    - title: ICLR 2024
 #      items: 
 #        - Description 1.
