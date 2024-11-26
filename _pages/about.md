@@ -8,7 +8,7 @@ profile:
   align: right
   image: yunzhe.jpg 
   image_circular: false # crops the image to make it circular
-  #address: >
+  address: >
   #  <p>100 College St, A920.59</p>
   #  <p>New Haven, CT 06510</p>
 
